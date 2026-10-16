@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Olá! Eu sou Jose (Joseph) 👋
 
 ### Desenvolvedor Full-Stack \| Freelancer em busca de oportunidades
@@ -8,7 +8,6 @@ ideias em projetos úteis.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](COLOQUE_AQUI_O_LINK_DO_SEU_GITHUB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
-:::
 
 ------------------------------------------------------------------------
 
@@ -28,7 +27,6 @@ continuar evoluindo minhas habilidades técnicas.
 
 ## 🛠️ Tecnologias e ferramentas
 
-::: {align="center"}
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,7 +36,6 @@ continuar evoluindo minhas habilidades técnicas.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-:::
 
 ## 🚀 Projetos em destaque
 
@@ -102,7 +99,6 @@ HTML · CSS · JavaScript · Python · C# · Node.js · Flask · Git · GitHub
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Obrigado por visitar meu perfil! \| Thanks for visiting my profile!**
 ✨
-:::
