@@ -6,8 +6,8 @@
 Construindo soluções web e aprendendo continuamente para transformar
 ideias em projetos úteis.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](COLOQUE_AQUI_O_LINK_DO_SEU_GITHUB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/JosephFreelancer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/josé-roberto-dev-8488b5423)
 
 ------------------------------------------------------------------------
 
@@ -52,11 +52,11 @@ continuar evoluindo minhas habilidades técnicas.
 
 ## 📫 Contato e redes
 
--   **GitHub:** [Seu perfil](COLOQUE_AQUI_O_LINK_DO_SEU_GITHUB)
--   **LinkedIn:** [Seu perfil](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
--   **E-mail:** `COLOQUE_AQUI_SEU_EMAIL`
+-   **GitHub:** [Seu perfil](https://github.com/JosephFreelancer)
+-   **LinkedIn:** [Seu perfil](www.linkedin.com/in/josé-roberto-dev-8488b5423)
+-   **E-mail:** `Joseprobert2009@gmail.com`
 -   **Portfólio:** [Acessar
-    portfólio](COLOQUE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
+    portfólio](https://josephfreelancer.github.io/JR-dev-Porfolio/)
 
 ------------------------------------------------------------------------
 
@@ -92,10 +92,11 @@ HTML · CSS · JavaScript · Python · C# · Node.js · Flask · Git · GitHub
 
 ## 📫 Contact and links
 
--   **GitHub:** [Your profile](ADD_YOUR_GITHUB_PROFILE_LINK_HERE)
--   **LinkedIn:** [Your profile](ADD_YOUR_LINKEDIN_LINK_HERE)
--   **Email:** `ADD_YOUR_EMAIL_HERE`
--   **Portfolio:** [Visit my portfolio](ADD_YOUR_PORTFOLIO_LINK_HERE)
+-   **GitHub:** [Seu perfil](https://github.com/JosephFreelancer)
+-   **LinkedIn:** [Seu perfil](www.linkedin.com/in/josé-roberto-dev-8488b5423)
+-   **E-mail:** `Joseprobert2009@gmail.com`
+-   **Portfólio:** [Acessar
+    portfólio](https://josephfreelancer.github.io/JR-dev-Porfolio/)
 
 ------------------------------------------------------------------------
 
